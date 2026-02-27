@@ -122,7 +122,7 @@ A kiosk should greet users.
 
 ## Task:
 
-Write **one** line that prints `Welcome to BytB-Sized Shop!`.
+Write **one** line that prints `Welcome to Byte-Sized Shop!`.
 
 ---
 
@@ -306,7 +306,7 @@ A teammate mixes up `/` and `//`.
 <br>
 
 <Announcement type="brainstorm">
-In Python, `5 / 2` gives a `float` and `5 // 2` gives an `int`.
+In Python, <code>5 / 2</code> gives a <code>float</code> and <code>5 // 2</code> gives an <code>int</code>.
 
 Is this **True** or **False**?
 </Announcement>
@@ -362,11 +362,14 @@ You compare user input with a number.
 <br>
 
 <Announcement type="brainstorm">
-Does the comparison expression `5 == "5"` evaluate to True? 
+Does the comparison expression <code>5 == "5"</code> evaluate to True? 
 
 Yes or No?
 </Announcement>
 
+<Announcement type="info">
+Note: <code>=</code> is a <code>=</code> followed by an <code>=</code>.
+</Announcement>
 ---
 
 # B-CMP-2 — Boundary check
@@ -400,7 +403,7 @@ equal to `y` using `!=` with `x = 10` and `y = 7`.
 <br>
 
 <Announcement type="info">
-Note: `!=` is an `!` followed by an `=`.
+Note: <code>!=</code> is an <code>!</code> followed by an <code>=</code>.
 </Announcement>
 
 ---
@@ -429,7 +432,7 @@ If `age >= 18`, print `Access granted`.
 <br>
 
 <Announcement type="info">
-Note: `>=` is a `>` followed by an `=`.
+Note: <code>>=</code> is a <code>&gt;</code> followed by an <code>=</code>.
 </Announcement>
 ---
 
@@ -582,10 +585,9 @@ Turn a light red/yellow/green.
 
 ## Task:
 
-Create a variable called `state` and set its value to `yellow`.
+Create a variable called `state` and set its value to `yellow` (`state = "yellow"`)
 
-When `state = "yellow"`, print `Stop`, `Caution`, or `Go` using an 
-`if/elif/else`.
+Depending on the `state` the `if..elif..elif..else` will print `Stop`,`Caution`, or `Go`.
 
 - <span class="text-center text-black bg-red-500 w-24 p-1 px-2 mb-1 
   inline-block"> red 
