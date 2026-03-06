@@ -58,12 +58,12 @@ They ask if comments affect how the program runs.
 
 ## Question:
 
-<Announcement type="brainstorm">
-Comments are lines starting with `#`. 
-<br>
-Do they change the program's output. 
-
-Yes or No?
+<Announcement type="brainstorm" >
+Comments are lines starting with `#`.
+<dl class="pt-2">
+<dt>Do they change the program's output.</dt> 
+<dd class="pt-4">Yes or No?</dd>
+</dl>
 </Announcement>
 
 ---
@@ -367,8 +367,10 @@ Does the comparison expression <code>5 == "5"</code> evaluate to True?
 Yes or No?
 </Announcement>
 
+<br>
+
 <Announcement type="info">
-Note: <code>=</code> is a <code>=</code> followed by an <code>=</code>.
+Note: <code>==</code> is a <code>=</code> followed by an <code>=</code>.
 </Announcement>
 ---
 
@@ -527,9 +529,11 @@ Create a variable called `mark` and a value of `49` ( `mark = 49`).
 Then use an `if … else` decision structure to print out `pass` or `fail`.
 
 <br>
+
 <Announcement type="info">
 The <code>>=</code> is a <code>></code> followed by a <code>=</code>.
 </Announcement>
+
 
 ---
 
