@@ -244,4 +244,4 @@ Temporary Items
 /.obsidian/plugins/
 /.obsidian/themes/
 /.obsidian/snippets/
-/2026/Session-02/Slides-02-01/node_modules/
+**/**/node_modules/
