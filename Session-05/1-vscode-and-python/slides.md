@@ -41,6 +41,13 @@ layout: section
 level: 2
 ---
 
+Opening a Folder to act as a "project"
+
+Open VSCode
+
+
+
+
 ![vscode-already-installed.png](public/images/vscode-already-installed.png)
 ![vscode-extensions-menu-option.png](public/images/vscode-extensions-menu-option.png)
 ![vscode-folder-file-navigation.png](public/images/vscode-folder-file-navigation.png)

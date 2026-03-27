@@ -245,3 +245,5 @@ Temporary Items
 /.obsidian/themes/
 /.obsidian/snippets/
 /2026/Session-02/Slides-02-01/node_modules/
+
+/**/pnpm-lock.yaml
