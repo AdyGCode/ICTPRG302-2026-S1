@@ -1,0 +1,3 @@
+my_dictionary = {1: "Hello", "a": "Goodbye", "001.45": "fred"}
+
+second_dictionary = {"name": "Adrian", "age": 123}

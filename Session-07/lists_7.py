@@ -71,7 +71,7 @@ while "QUIT" not in [product.upper(), location.upper()]:
     my_shopping_list.append(item_and_location)
 
     print()
-    product = get_text_from_user("Product to purchase:  ")
+    product = get_text_from_user("Product to purchase: ")
     location = get_text_from_user("Location of product: ")
 
 display_shopping_list(my_shopping_list)
