@@ -257,6 +257,10 @@ Get a **Python Cheat Sheet (PDF)** and learn the basics of Python, like working 
 
 # Acknowledgements
 
+- Real Python. (2026). Python Cheat Sheet – Real Python. Realpython.com. https://realpython.com/cheatsheets/python/
+
+
+
 > Slide template by Adrian Gould
 > 
 > Some content was generated with the assistance of Microsoft CoPilot
