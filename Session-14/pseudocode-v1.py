@@ -14,26 +14,34 @@
 # TODO: Define Constants
 DEBUG = True
 
+
 # TODO: Define Variables
 
 # Application Functions
 # TODO: Score Guess Function
-def score_guess():
+def score_guess(target, guess):
     # TODO: Write score guess code
+    score = [0] * 5
+    
     print("Score guess code not ready")
+    return score
+
 
 # TODO: Read File Into Word List Function
 def read_file_into_list():
     # TODO: write code to read file into list
     print("Read file into list code not ready")
 
+
 # TODO: Display Greeting Function
 def show_greeting():
     print("Welcome")
 
+
 # TODO: Display Instructions Function
 def show_instructions():
     print("Instructions")
+
 
 # TODO: Any Optional Additional Functions
 
@@ -67,12 +75,28 @@ def play_game():
     # TODO: Display End of Game Message
     print("play the game code")
 
-#TODO: Testing Function
+
+# TODO: Testing Function
 def test_game():
     print("Testing game code")
 
+    # -----------------------------------------------------------------
 
-#TODO: Main Program
+    # Test Case 1
+    ## Arrange
+    guess_word = "hello"
+    target_word = "train"
+
+    ## Act
+    score = score_guess(guess_word, target_word)
+
+    ## Assert
+    print("Score:", score, "Expected:", [0, 0, 0, 0, 0])
+
+    # -----------------------------------------------------------------
+
+
+# TODO: Main Program
 if DEBUG:
     test_game()
 else:
